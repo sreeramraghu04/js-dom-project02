@@ -8,7 +8,7 @@
 
 ### live demo link
 
--
+- [livedemo](https://domdigitalclockproject02.netlify.app/)
 
 ---
 
