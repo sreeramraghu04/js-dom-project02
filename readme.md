@@ -1,4 +1,4 @@
-# JavaScript Dom
+# JavaScript DOM
 
 **Digital Clock using JavaScript DOM & Tailwind CSS**
 
