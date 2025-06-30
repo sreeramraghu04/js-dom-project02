@@ -6,12 +6,12 @@
 
 ---
 
-### live demo link
-
-- [livedemo](https://domdigitalclockproject02.netlify.app/)
-
----
-
 ### Live Preview
 
 - ![alt text](digitalclock.png)
+
+---
+
+### Demo Link
+
+- [Live Demo](https://domdigitalclockproject02.netlify.app/)
