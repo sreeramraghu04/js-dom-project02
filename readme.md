@@ -6,7 +6,7 @@
 
 ---
 
-### Live Preview
+### Screenshots
 
 - ![alt text](digitalclock.png)
 
